@@ -26,10 +26,10 @@ The Sudoku solving algorithm uses backtracking to try all possible numbers in ea
 ## Screenshots
 
 ### Home Page
-![alt text](HomePage.png)
+![alt text](Images/HomePage.png)
 
 ### Sudoku Input Page
-![alt text](InputSudoku.png)
+![alt text](Images/InputSudoku.png)
 
 ### Solution Page
-![alt text](SolutionPage.png)
+![alt text](Images/SolutionPage.png)
