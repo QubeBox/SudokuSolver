@@ -24,3 +24,12 @@ The Sudoku solving algorithm uses backtracking to try all possible numbers in ea
 - **check_num():** Checks if a number can be placed at a specific position.
 
 ## Screenshots
+
+### Home Page
+![alt text](HomePage.png)
+
+### Sudoku Input Page
+![alt text](InputSudoku.png)
+
+### Solution Page
+![alt text](SolutionPage.png)
